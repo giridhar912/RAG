@@ -10,8 +10,13 @@ from pypdf import PdfReader
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+BASE_DIR = Path(__file__).resolve().parent
 PDF_PATH_CANDIDATES = [
     Path("C:/Users/91733/Downloads/sample_product_datasheet.pdf"),
+    BASE_DIR / "data" / "sample_product_datasheet.pdf",
+    BASE_DIR / "data" / "product_catalog.csv",
+    BASE_DIR / "product_catalog.csv",
+    BASE_DIR / "sample_product_datasheet.pdf",
     Path("data/sample_product_datasheet.pdf"),
     Path("data/product_catalog.csv"),
 ]
