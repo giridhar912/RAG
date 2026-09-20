@@ -1,0 +1,11 @@
+product_id,product_name,brand,category,price,display,battery,ram,storage,features
+P001,Alpha X1,TechNova,Smartphone,24999,AMOLED 120Hz,5000mAh,8GB,128GB,"5G;Fast charging;Dual camera"
+P002,Alpha X2,TechNova,Smartphone,32999,AMOLED 120Hz,5000mAh,12GB,256GB,"5G;Fast charging;OIS camera"
+P003,PixelPro Lite,VisionMob,Smartphone,19999,LCD 90Hz,4500mAh,6GB,128GB,"5G;Face unlock"
+P004,NoteBook Air,CompuWorks,Laptop,54999,IPS 60Hz,6000mAh,16GB,512GB SSD,"Backlit keyboard;Wi-Fi 6"
+P005,NoteBook Pro,CompuWorks,Laptop,79999,OLED 120Hz,7000mAh,32GB,1TB SSD,"Backlit keyboard;Wi-Fi 6;Fingerprint"
+P006,TabMax 10,TechNova,Tablet,28999,IPS 90Hz,8000mAh,8GB,256GB,"Stylus support;Face unlock"
+P007,SoundPods Pro,AudioPlus,Earbuds,4999,N/A,600mAh,N/A,N/A,"Active noise cancellation;Bluetooth 5.3"
+P008,Watch Fit,WearTech,Smartwatch,6999,AMOLED,350mAh,2GB,32GB,"Heart-rate tracking;GPS;Water resistant"
+P009,Alpha X3,TechNova,Smartphone,41999,OLED 144Hz,5500mAh,16GB,512GB,"5G;Fast charging;Triple camera"
+P010,NoteBook Basic,CompuWorks,Laptop,42999,IPS 60Hz,5000mAh,8GB,256GB SSD,"Wi-Fi 6;Webcam"

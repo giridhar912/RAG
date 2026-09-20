@@ -1,0 +1,7 @@
+X200 Sensor Module Datasheet
+
+The X200 Sensor Module is a compact industrial sensing device designed for environmental monitoring and condition tracking in factory automation and smart building systems. It supports 5V DC power input and operates with a typical current draw of 80mA. The device includes a 12-bit ADC, temperature sensing from -20C to 85C, and a 2.4GHz Wi-Fi interface for local connectivity. It provides a UART serial interface, I2C sensor bus, and GPIO expansion for integration with controllers.
+
+The X200 Sensor Module measures 45mm x 30mm x 12mm and has a weight of 18g. It uses a low-power ARM Cortex-M4 microcontroller and requires a stable supply voltage between 4.75V and 5.25V. The module includes an onboard humidity sensor, a digital pressure sensor, and an industrial-grade enclosure rated IP54. It connects to external systems through the UART or I2C interface and supports remote configuration over Wi-Fi.
+
+The device is suitable for HVAC monitoring, predictive maintenance, and smart metering applications. It has a 10-year battery-free operation model when powered by a regulated 5V source, and supports secure data transmission over WPA2 Wi-Fi. The X200 Sensor Module provides sensor output data with a resolution of 0.1C and 0.1% RH.
